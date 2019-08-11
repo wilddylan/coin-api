@@ -10,6 +10,7 @@ HOST：http://95.179.153.66:8080
 #### 获取币种列表
 
 API 地址：/data/coinList
+
 API 参数：无需，不分页，总共结果 700 个左右
 
 API 请求样例：GET http://95.179.153.66:8080/data/coinList
