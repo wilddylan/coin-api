@@ -32,7 +32,7 @@ API 请求样例：GET http://95.179.153.66:8080/data/coinList
 }
 ```
 
-#### 获取某一币种价格
+#### 获取某一币种主流交易所价格
 
 API 地址：/data/coinPrize
 API 参数：国家（目前支持 zh、en，分别查 RMB、USD 价格）、币种名称（来自币种列表中的 currency 字段）
